@@ -10,5 +10,10 @@ import java.lang.*;
 		{
 			System.out.println("I am a servant of the people.");
 		}
+		public void getDateYear()
+		{
+		Date d1 = new Date();
+			return d1;
+		}
 	}
 
