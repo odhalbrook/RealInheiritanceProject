@@ -10,6 +10,9 @@ public final class SpeakerOfTheHouse extends Representative{
 		
 	}
 
-	
+	public void sayMyProfession()
+	{
+		System.out.println("I am the leader of the House of Representatives");
+	}
 	
 }
