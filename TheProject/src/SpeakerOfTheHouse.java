@@ -8,9 +8,5 @@ public final class SpeakerOfTheHouse extends PublicOffcial{
 	}
 
 	
-	public int getNumOfTermsServed() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
+	
 }
