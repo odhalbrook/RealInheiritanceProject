@@ -7,4 +7,8 @@ public abstract class Senator extends PublicOffcial{
 	{
 		return numTermsServed;
 	}
+	public void makeSureISaidIt()
+	{
+		super.sayMyProfession();
+	}
 }
