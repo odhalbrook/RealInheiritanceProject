@@ -5,4 +5,8 @@ public final class JudiciaryComitteeMember extends Senator{
 	{
 		
 	}
+	public void sayMyProfession()
+	{
+		System.out.println("I confirm federal judges and give a reccomendation to the whole Senate");
+	}	
 }
